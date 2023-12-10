@@ -1,0 +1,313 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page .box{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+
+.page .box img{
+    position: absolute;
+    left: 67%;
+    top: 20%;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 0px 10px 20px 5px rgba(56, 4, 212, 0.9);
+}
+.page .box .box8{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    clip-path: polygon(47% 25%, 79% 50%, 47% 78%, 15% 51%);
+    background: rgb(11,7,99);
+    background: linear-gradient(90deg, rgb(8, 2, 112) 0%, rgba(14,8,110,1) 35%);
+    top: 10.3%;
+    left: 18.1%;
+  
+}
+.page .box .box7{
+    position: absolute;
+    width: 6.5%;
+    height: 11%;
+    clip-path: polygon(47% 25%, 79% 50%, 47% 78%, 15% 51%);
+    top: 7.2%;
+    left: 16.5%;
+    background: rgb(195,36,34);
+background: linear-gradient(0deg, rgba(195,36,34,1) 0%, rgba(193,6,205,1) 74%);
+   }
+    .page .box .head{
+        position: absolute;
+        top: 10%;
+        left: 23%;
+        color: white;
+        font-size: 33px;
+        font-family: sans-serif;
+    }
+    .page .box .head1{
+        position: absolute;
+        top: 36%;
+        left: 17%;
+        color: white;
+        font-size: 60px;
+        font-family: sans-serif;
+    }
+    .page .box .btn{
+        position: absolute;
+        left: 17%;
+        top: 65%;
+        padding: 5px 5px;
+        border: none;
+        border-radius: 27px;
+        width: 11%;
+        height: 7.5%;
+        font-size: 17px;
+        font-family: sans-serif;
+        background: rgb(213,10,240);
+        background: rgb(165,43,221);
+        background: linear-gradient(90deg, rgba(165,43,221,1) 0%, rgba(208,8,32,1) 100%);
+}
+.page1{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+    background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page1 .box1{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+.page1 .box1 .head2{
+    position: absolute;
+    top: 130%;
+    left: 35%;
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.page1 .box1 .para{
+    position: absolute;
+    color: white;
+    top: 155%;
+    left: 35%;
+    font-size: 18px;
+}
+.page2{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+    background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page2 .box2{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+.page2 .box2 img{
+    position: absolute;
+    left: 65%;
+    top: 220%;
+    border: none;
+    border-radius: 35px;
+}
+.page2 .box2 .head3{
+    position: absolute;
+    left: 10%;
+    color: rgb(223, 11, 223);
+    font-size: 50px;
+    top: 215%;
+}
+.page2 .box2 .para1{
+    position: absolute;
+    color: white;
+    top: 240%;
+    left: 10%;
+    font-size: 23px;
+}
+.page2 .box2 .para2{
+    position: absolute;
+    color: white;
+    top: 250%;
+    left: 10%;
+    font-size: 23px;
+}
+.page3{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+    background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page3 .box3{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+.page3 .box3 img{
+    position: absolute;
+    left: 6%;
+    top: 320%;
+    border: none;
+    border-radius: 35px;
+}
+.page3 .box3 .head4{
+    position: absolute;
+    left: 47%;
+    color: rgb(194, 9, 191);
+    font-size: 57px;
+    top: 320%;
+}
+.page3 .box3 .para3{
+    position: absolute;
+    color: white;
+    top: 336%;
+    left: 47%;
+    font-size: 25px;
+}
+.page3 .box3 .para4{
+    position: absolute;
+    color: white;
+    top: 348%;
+    left: 47%;
+    font-size: 25px;
+}
+.page4{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+    background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page4 .box4{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+.page4 .box4 img{
+    position: absolute;
+    left: 70%;
+    top: 415%;
+    border: none;
+    border-radius: 35px;
+}
+.page4 .box4 .head5{
+    position: absolute;
+    left: 8%;
+    color: rgb(194, 9, 191);
+    font-size: 60px;
+    top: 415%;
+}
+.page4 .box4 .para5{
+    position: absolute;
+    color: white;
+    top: 440%;
+    left: 8%;
+    font-size: 25px;
+}
+.page4 .box4 .para6{
+    position: absolute;
+    color: white;
+    top: 451%;
+    left: 8%;
+    font-size: 25px;
+    
+}
+.page5{
+    width: 100%;
+    height: 100vh;
+    background: rgb(5, 1, 77);
+background: linear-gradient(90deg, rgb(3, 1, 57) 0%, rgb(6, 1, 84) 35%);
+}
+.page5 .box5{
+    width: 100%;
+    height: 100vh;
+    border: none;
+}
+.page5 .box5 .box9{
+    position: absolute;
+    width: 3%;
+    height: 5%;
+    clip-path: polygon(47% 25%, 79% 50%, 47% 78%, 15% 51%);
+    background: rgb(11,7,99);
+    background: linear-gradient(90deg, rgb(8, 2, 112) 0%, rgba(14,8,110,1) 35%);
+    top: 509.5%;
+    left: 3.7%;
+  
+}
+.page5 .box5 .box6{
+    position: absolute;
+    width: 6.5%;
+    height: 11%;
+    clip-path: polygon(47% 25%, 79% 50%, 47% 78%, 15% 51%);
+    top: 506.5%;
+    left: 2%;
+    background: rgb(195,36,34);
+background: linear-gradient(0deg, rgba(195,36,34,1) 0%, rgba(193,6,205,1) 74%);
+   }
+.page5 .box5 .sub{
+    position: absolute;
+    left: 8%;
+    color: white;
+    font-size: 30px;
+    top: 510%;
+}
+.page5 .box5 .head6{
+    position: absolute;
+    left: 50%;
+    color: rgb(223, 11, 223);
+    font-size: 50px;
+    top: 515%;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.page5 .box5 .para7{
+    position: absolute;
+    color: white;
+    top: 525%;
+    left: 50%;
+    font-size: 18px;
+    font-family: monospace;
+}
+.page5 .box5 .li{
+    position: absolute;
+    width: 3%;
+    height: 5.5%;
+    top: 550%;
+    left: 50%;
+    border: none;
+    border-radius:50%;
+}
+.page5 .box5 .fb{
+    position: absolute;
+    width: 3%;
+    height: 5.2%;
+    top: 550%;
+    left: 54%;
+    border: none;
+    border-radius: 50%;
+}
+.page5 .box5 .insta{
+    position: absolute;
+    width: 3%;
+    height: 5.5%;
+    top: 550%;
+    left: 58%;
+    border: none;
+    border-radius: 70%;
+}
+.page5 .box5 .twi{
+    position: absolute;
+    width: 2.8%;
+    height: 5.5%;
+    top: 550%;
+    left: 62%;
+    border: none;
+    border-radius: 70%;
+}
